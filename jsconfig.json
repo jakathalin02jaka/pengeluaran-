@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["resources/js.deleted/*"]
+        }
+    },
+    "exclude": ["node_modules", "public"]
+}
